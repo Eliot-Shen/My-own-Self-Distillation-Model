@@ -30,11 +30,11 @@ def initialize_weights(model):
             torch.nn.init.constant_(m.bias.data, 0.1)
 
 
-# model.apply(initialize_weights)
+model.apply(initialize_weights)
 # print(model.state_dict())
-# save_path = "./model/initial_model.pth"
-# torch.save(model.state_dict(), save_path)
-# print("Successfully save the model at ", save_path)
+save_path = "./model/initial_model.pth"
+torch.save(model.state_dict(), save_path)
+print("Successfully save the model at ", save_path)
 
 
 class IntermediateLayerGetter(nn.ModuleDict):
