@@ -1,6 +1,7 @@
 # My-own-Self-Distill-Model
-This is my own implement of Self-Distillion Model.I construct the whole model.And this is the version1.0.  \
-If you have any question,please contact with me.Glad to make friends, who is interesting in CV or KD as well.  \
+This is my own implement of Self-Distillion Model for practicing purpose.
+I construct the whole model.  And this is the version1.0.  \
+If you have any question,please contact with me. Glad to make friends, who is interesting in CV or KD as well.  \
 My e-mail address: 10235101553@stu.ecnu.edu.cn \
 \
 The original paper is here.  \
