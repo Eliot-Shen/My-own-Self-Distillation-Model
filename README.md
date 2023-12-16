@@ -15,4 +15,8 @@ Third, run **model.py** to initialize the original Resnet18 backbone model. \
 Final, run **train.py** to construct the whole model and train it. 
 
 ## Some details 
-In the first 100 batch, the loss will grow conversely, it's normal, don't worry.
+In the first 100 batch, the loss will grow conversely. It's normal, don't worry.  \
+You can try various hyper-parameter on your own to get better results. \
+Try to change: \
+    1. T in loss.py  T means distillation temperature.\
+    2. lamda in loss.py  lamba is the balance factor to balance hard-label loss and soft-label loss. 
