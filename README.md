@@ -12,7 +12,8 @@ Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks vi
 First, create “model” and "dataset" folder on your local environment, which are used for saving checkpoints and dataset relatively. \
 Second, run **dataset.py** to download cifar100 dataset. \
 Third, run **model.py** to initialize the original Resnet18 backbone model. \
-Final, run **train.py** to construct the whole model and train it. 
+Fourth, run **train.py** to construct the whole model and train it.  \
+Final,run **test.py** to test the results.
 
 ## Some details 
 In the first 100 batch, the loss will grow conversely. It's normal, don't worry.  \
