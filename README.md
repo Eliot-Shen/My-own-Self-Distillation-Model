@@ -18,5 +18,5 @@ Final, run **train.py** to construct the whole model and train it.
 In the first 100 batch, the loss will grow conversely. It's normal, don't worry.  \
 You can try various hyper-parameters on your own to get better results. \
 Try to change: \
-&emsp;&emsp;T in loss.py&emsp;&emsp;means distillation temperature.\
-&emsp;&emsp;lamda in loss.py&emsp;&emsp;amba is the balance factor to balance hard-label loss and soft-label loss. 
+T in loss.py&emsp;&emsp;means distillation temperature.\
+lamda in loss.py&emsp;&emsp;lamba is the balance factor to balance hard-label loss and soft-label loss. 
