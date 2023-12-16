@@ -8,11 +8,11 @@ The original paper is here.  \
 Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation  \
 <https://arxiv.org/abs/1905.08094> \
 
-## How to run the code？ \
+## How to run the code？ 
 First, create “model” and "dataset" folder on your local envirmonment, which are used for saving checkpoints and dataset relatively. \
 Second, run **dataset.py** to download cifar100 dataset. \
 Third, run **model.py** to initialize the original Resnet18 backbone model. \
-Final, run **train.py** to construct the whole model and train it. \
+Final, run **train.py** to construct the whole model and train it. 
 
-## Some details \
+## Some details 
 In the first 100 batch, the loss will grow conversely, it's normal, don't worry.
