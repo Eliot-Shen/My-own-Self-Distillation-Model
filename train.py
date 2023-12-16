@@ -14,7 +14,7 @@ batch_size = 64
 lr = 0.005
 weight_decay = 0.3
 num_workers = 0
-num_epochs = 2
+num_epochs = 10
 
 """Data load"""
 train_loader = torch.utils.data.DataLoader(train_set, batch_size=batch_size, num_workers=num_workers, shuffle=True,
