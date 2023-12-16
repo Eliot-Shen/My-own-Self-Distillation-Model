@@ -6,7 +6,7 @@ My e-mail address: 10235101553@stu.ecnu.edu.cn \
 \
 The original paper is here.  \
 Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation  \
-<https://arxiv.org/abs/1905.08094> \
+<https://arxiv.org/abs/1905.08094> 
 
 ## How to run the code？ 
 First, create “model” and "dataset" folder on your local envirmonment, which are used for saving checkpoints and dataset relatively. \
