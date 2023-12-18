@@ -1,0 +1,1 @@
+Model file is used for saving checkpoints.
