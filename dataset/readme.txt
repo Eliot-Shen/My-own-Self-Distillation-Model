@@ -1,0 +1,1 @@
+Dataset file is used for storing cifar-100 dataset.
