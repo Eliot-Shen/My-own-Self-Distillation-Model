@@ -16,7 +16,6 @@ Fourth, run **train.py** to construct the whole model and train it.  \
 Final,run **test.py** to test the results.
 
 ## Some details 
-In the first 100 batch, the loss will grow conversely. It's normal, don't worry.  \
 You can try various hyper-parameters on your own to get better results. \
 Try to change: \
 &emsp;T in loss.py&emsp;&emsp;means distillation temperature.\
