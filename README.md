@@ -1,6 +1,5 @@
 # My-own-Self-Distillation-Model
 This is my own implement of Self-Distillation Model for practicing purpose.  \
-I have constructed the whole model.  And this is the **version 1.0**.  \
 If you have any questions,please contact with me. Glad to make friends, who are interesting in CV or KD as well.  \
 My e-mail address: 10235101553@stu.ecnu.edu.cn \
 \
@@ -16,6 +15,7 @@ Fourth, run **train.py** to construct the whole model and train it.  \
 Final,run **test.py** to test the results.
 
 ## Some details 
+Backbone: Resnet18  \
 You can try various hyper-parameters on your own to get better results. \
 Try to change: \
 &emsp;T in loss.py&emsp;&emsp;means distillation temperature.\
