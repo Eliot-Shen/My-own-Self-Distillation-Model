@@ -1,5 +1,5 @@
 # My-own-Self-Distillation-Model
-This is my own implement of Self-Distillation Model for practicing purpose.  \
+This is my own implementation of Self-Distillation Model for practicing purpose.  \
 If you have any questions,please contact with me. Glad to make friends, who are interesting in CV or KD as well.  \
 My e-mail address: 10235101553@stu.ecnu.edu.cn \
 \
