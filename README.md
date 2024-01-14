@@ -12,7 +12,7 @@ First, create “model” and "dataset" folder on your local environment, which 
 Second, run **dataset.py** to download cifar100 dataset. \
 Third, run **model.py** to initialize the original Resnet18 backbone model. \
 Fourth, run **train.py** to construct the whole model and train it.  \
-Final,run **test.py** to test the results.
+Final,run **test.py** to get metrics.
 
 ## Some details 
 Backbone: Resnet18  \
